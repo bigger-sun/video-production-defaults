@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Production Router"
+  short_description: "Route video formats with center-first layout and delivery QA"
+  default_prompt: "Use $video-production-defaults to select and produce the correct video format with shared BGM, center-first safe-area layout, evidence-carousel motion boundaries, Video Account metrics, representative frame checks, and delivery QA. Do not generate a cover unless explicitly requested."
